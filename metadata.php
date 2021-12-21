@@ -37,7 +37,7 @@ $aModule = [
     ],
     'blocks'      => [
         [
-            'template' => 'header.tpl',
+            'template' => 'include/header_links.tpl',
             'block'    => 'admin_header_links',
             'file'     => '/views/blocks/header__admin_header_links.tpl',
         ],
